@@ -1,0 +1,6 @@
+=== VOLATILITY MEMORY ACQUISITION ARTIFACT ===
+Target: Windows 11 Enterprise (Build 22631)
+Process Count: 148 active tasks
+Suspicious Injected Thread ID: 0x1B4F in svchost.exe (PID: 2840)
+MD5: 5d41402abc4b2a76b9719d911017c592
+Capture Integrity: Hardware write-blocker engaged
