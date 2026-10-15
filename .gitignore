@@ -28,3 +28,9 @@ buildNumber.properties
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# Web Frontend build output
+web/node_modules/
+web/dist/
+.vercel
+
